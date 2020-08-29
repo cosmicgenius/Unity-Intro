@@ -1,0 +1,1 @@
+Episode 08 from Sebastian Lague's Intro to Unity series found [here](https://www.youtube.com/watch?v=nWuekr5rUcg&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&index=9).
